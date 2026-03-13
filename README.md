@@ -5,6 +5,8 @@ This project demonstrates a basic authentication interface with a responsive lay
 
 Perfect for **beginners learning front-end development** and practicing form handling.
 
+***Username : admin***
+***Password : admin123***
 ---
 
 ## 🚀 Features
